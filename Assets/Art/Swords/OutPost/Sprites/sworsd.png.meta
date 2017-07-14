@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: e5a52647e1dce5145bda3c3460067d98
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sworsd
+    21300002: sworsd_0
+    21300004: sworsd_1
+    21300006: sworsd_2
+    21300008: sworsd_3
+    21300010: sworsd_4
+    21300012: sworsd_5
+    21300014: sworsd_6
+    21300016: sworsd_7
+    21300018: sworsd_8
+    21300020: sworsd_9
+    21300022: sworsd_10
+    21300024: sworsd_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sworsd_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2781
+        width: 766
+        height: 2433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_1
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2885
+        width: 149
+        height: 2426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_2
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2885
+        width: 709
+        height: 2420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_3
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2891
+        width: 351
+        height: 2388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_4
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 2885
+        width: 292
+        height: 2322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_5
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 2885
+        width: 162
+        height: 2303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_6
+      rect:
+        serializedVersion: 2
+        x: 5958
+        y: 2885
+        width: 241
+        height: 2342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 676
+        height: 2423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_8
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3
+        width: 462
+        height: 2420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_9
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 10
+        width: 819
+        height: 2420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_10
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 0
+        width: 514
+        height: 2312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sworsd_11
+      rect:
+        serializedVersion: 2
+        x: 5230
+        y: 0
+        width: 943
+        height: 2312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
